@@ -1,0 +1,16 @@
+{
+ :paths ["src" "resources"]
+ :deps {
+        hiccup/hiccup {:mvn/version "2.0.0-RC1"}
+        ogden.jake/httpserver {:local/root "./resources/HttpServer.jar"}
+        io.github.Jhogd/TIc-Tac-Toe-app {:git/url "https://github.com/Jhogd/TIc-Tac-Toe-app.git" :sha "07984be0d12e874068f3c697a62595d6527ea466"}
+        }
+
+ :aliases {
+           :test {:extra-deps  {
+                                speclj/speclj {:mvn/version "3.4.3"}
+                                }
+                  :extra-paths ["spec/"]}
+           :spec {:main-opts ["-m" "speclj.main" "-c"]}
+           }
+ }

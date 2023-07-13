@@ -1,0 +1,268 @@
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100001, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :o}, :player :o, :game-number 100002, :difficulty 1, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100002, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100003, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100004, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100005, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100006, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100007, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100008, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100009, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100010, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100011, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100012, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100013, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100014, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :o :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :o :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :o :e :o :e :e :o :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100015, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100016, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100016, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100016, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100016, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100016, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :e :x :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :e :x :e :o :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :e :x :x :o :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :o :x :x :o :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100017, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100018, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100019, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100020, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100021, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100022, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100023, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100024, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100025, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100026, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100027, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100028, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100028, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :x :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :x :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :x :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :x :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :x :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :x :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :x :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :x :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :o :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100029, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :x :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :e :e :e :x :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :e :e :e :x :e :e :x :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :e :e :e :x :e :o :x :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :e :e :e :x :e :o :x :e :e :e :e :x :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :o :e :e :e :x :e :o :x :e :e :e :e :x :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :o :e :e :e :x :e :o :x :e :e :e :e :x :e :x], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :o :e :e :o :x :e :o :x :e :e :e :e :x :e :x], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :o :e :e :o :x :e :o :x :e :e :e :x :x :e :x], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :o :e :e :o :x :e :o :x :e :e :e :x :x :o :x], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100030, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100031, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100032, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100033, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100034, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100035, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100036, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100037, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100038, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100039, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100039, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100039, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :e :e :x :e :e :e :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100039, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :e :e :x :e :o :e :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100039, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :e :o :e :x :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :e :x :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :x], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100040, :difficulty 3, :difficulty2 3}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :e :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:x :o :e :e :o :e :e :e :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100041, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100042, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100042, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100042, :difficulty 3, :difficulty2 3}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :o :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :o :e :e :e :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :o :o :e :e :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :o :o :e :x :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :e :x :x :o :o :o :x :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:o :x :x :x :o :o :o :x :x], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100043, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :e :e :e :e :e :e :o :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :e :e :e :o :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :o :e :e :o :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :o :e :e :o :e :e :e :e :e :e :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :o :e :e :o :e :e :e :e :e :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :e :o :e :x :o :e :e :e :e :e :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :o :o :e :x :o :e :e :e :e :e :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :e :o :o :e :x :o :e :e :e :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :e :x :o :e :e :e :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :e :e :e :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :e :e :o :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :x :e :o :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :x :o :o :e :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :x :o :o :x :x :o :e :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:x :x :o :o :o :x :x :o :x :o :o :x :x :o :o :x], :size 4, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100044, :difficulty 3, :difficulty2 3}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :x :o :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :x :o :e :e :e :e :e], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :x :o :e :e :e :e :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :x :o :e :e :e :x :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :x :o :e :e :o :x :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:x :e :x :o :e :x :o :x :o], :size 3, :dimension :two, :game-type :human-vs-human, :display :gui, :user-player :x}, :player :o, :game-number 100045, :difficulty 0, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100046, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :x :e :e :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :x :e :e :e :e], :size 3, :dimension :two, :display :gui, :game-type :ai-vs-human}, :player :o, :game-number 100, :difficulty 1, :difficulty2 1}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100046, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100046, :difficulty 3, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e :e :e :e :e :e :e :e], :size 4, :dimension :two, :game-type :ai-vs-human, :display :gui, :user-player :x}, :player :x, :game-number 100046, :difficulty 2, :difficulty2 0}
+{:board {:state [:e :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100047, :difficulty 3, :difficulty2 1}
+{:board {:state [:x :e :e :e :e :e :e :e :e], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100047, :difficulty 3, :difficulty2 1}
+{:board {:state [:x :e :e :e :e :e :e :e :o], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100047, :difficulty 3, :difficulty2 1}
+{:board {:state [:x :e :x :e :e :e :e :e :o], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100047, :difficulty 3, :difficulty2 1}
+{:board {:state [:x :o :x :e :e :e :e :e :o], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :x, :game-number 100047, :difficulty 3, :difficulty2 1}
+{:board {:state [:x :o :x :e :e :e :x :e :o], :size 3, :dimension :two, :game-type :ai-vs-ai, :display :gui, :user-player :x}, :player :o, :game-number 100047, :difficulty 3, :difficulty2 1}
